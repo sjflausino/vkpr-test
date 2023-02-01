@@ -37,3 +37,4 @@ module "kubeconfig" {
 
   depends_on = [module.kubernetes]
 }
+    
